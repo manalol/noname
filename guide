@@ -12,7 +12,7 @@ Internal
   
   [+] Aimbot changed from physical aim to memory (you can use your normal sens)
       - Make sure not to get reported, internals are sort of risky and if you use a low smoothing it will be VERY obvious
-  [+] Fixed a bug where you snap onto players less farther than you
+  [?] Fixed a bug where you snap onto players less farther than you (Aim to Closest) (I havent confirmed personally)
   [-] Removed neck aiming
   
  External:
