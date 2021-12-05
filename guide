@@ -1,0 +1,24 @@
+WHATS HAPPENING TO NONAME?
+The external & internal cheats are being released after loader issues are being resolved.
+
+WILL I NEED TO FORCE?
+For the external cheat, you'll still need to force battleye but if you are using internal then it wont matter.
+
+NEW FEATURES:
+Internal
+  - Name ESP
+  - Ammo Count
+  [+] Fixed rendering bug in cars and other vehicles
+  
+  [+] Aimbot changed from physical aim to memory (you can use your normal sens)
+      - Make sure not to get reported, internals are sort of risky and if you use a low smoothing it will be VERY obvious
+  [+] Fixed a bug where you snap onto players less farther than you
+  [-] Removed neck aiming
+  
+ External:
+  ...
+  
+  WHERE IS THE NEW EXTERNAL?
+  The new external still uses the old loader so there is no need to reinstall
+  
+  
